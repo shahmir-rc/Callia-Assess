@@ -6,6 +6,10 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['Inter', 'sans-serif'],
+        heading: ['Montserrat', 'sans-serif']
+      },
       colors: {
         beige: '#D4B69C',
         'beige-dark': '#C5A088',
