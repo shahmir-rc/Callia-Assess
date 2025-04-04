@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Header />
-      <main className="min-h-screen pt-16">
+      <main className="min-h-screen">
         <Routes>
           <Route path="/" element={<HeroBanner />} />
         </Routes>

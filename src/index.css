@@ -64,6 +64,7 @@
   
   body {
     @apply bg-white text-gray-900 font-sans;
+    background: #f1f1f1;
   }
 }
 
